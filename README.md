@@ -2,9 +2,6 @@
 
 An automated bot for managing multiple Monard with proxy support. 
 
-# Our Discord Server
-## https://discord.gg/shFBFNdn
-
 Monad-BOT is a blockchain automation tool designed to interact with various cryptocurrency services for swapping and staking tokens. It provides a dashboard interface to monitor operations and logs, and it cycles through tasks like wrapping/unwrapping and staking/unstaking tokens.
 
 ## Features

